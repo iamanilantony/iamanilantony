@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anil Antony</h1>
-<h3 align="center">"Full stack developer with a passion for procrastinating and then staying up all night to finish the code"</h3>
+<h3 align="justify">"Full stack developer with a passion for procrastinating and then staying up all night to finish the code"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamanilantony&label=Profile%20views&color=0e75b6&style=flat" alt="iamanilantony" /> </p>
 
