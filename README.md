@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamanilantony" alt="iamanilantony" /></a> </p>
 
-![Alt Text]([https://photos.app.goo.gl/JpYeh5HomMJgpx3v9](https://lh3.googleusercontent.com/pw/AJFCJaXevCQw6mzPS81auEyAyZJKHYYDUSWrY1qGsJ8IQ8EMeX7sKn-5KedhSYYCk-kan4BZybaN2Mr90Vh0Ar69QhzWzGwjhj3EmPh4GaCeYbWVCAW8yXKY34sJNxt6eLRToJkS9MIJRPbE6FLneMv8yRhVBg=w2560-h722-s-no?authuser=0))
+![Alt Text](https://github.com/iamanilantony/iamanilantony/blob/master/Beige%20Grey%20Vlogger%20YouTube%20Banner%20(1).jpg)
 
 - 🔭 I’m currently working on **Cinefest (Passion Project)**
 
