@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anil Antony</h1>
 <h3 align="justify">"Full stack developer with a passion for procrastinating and then staying up all night to finish the code"</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamanilantony&label=Profile%20views&color=0e75b6&style=flat" alt="iamanilantony" /> </p>
-
 ![Alt Text](https://github.com/iamanilantony/iamanilantony/blob/master/Beige%20Grey%20Vlogger%20YouTube%20Banner%20(1).jpg)
 
 - 🔭 I’m currently working on **Cinefest (Passion Project)**
@@ -31,3 +29,6 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamanilantony" alt="iamanilantony" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamanilantony&label=Profile%20views&color=0e75b6&style=flat" alt="iamanilantony" /> </p>
+
