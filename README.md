@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamanilantony" alt="iamanilantony" /></a> </p>
 
+![Alt Text](https://github.com/iamanilantony/iamanilantony/blob/master/Beige%20Grey%20Vlogger%20YouTube%20Banner%20(1).png)
+
 - 🔭 I’m currently working on **Cinefest (Passion Project)**
 
 - 🌱 I’m currently learning **Advanced FrontEnds**
