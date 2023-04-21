@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Cinefest (Passion Project)**
 
-- 🌱 I’m currently learning **Astro**
+- 🌱 I’m currently learning **Advanced FrontEnds**
 
 - 👨‍💻 All of my projects are available at [anilantony.xyz](anilantony.xyz)
 
