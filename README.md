@@ -1,28 +1,30 @@
-# Hi there 👋
+<h1 align="center">Hi 👋, I'm Anil Antony</h1>
+<h3 align="center">"Full stack developer with a passion for procrastinating and then staying up all night to finish the code"</h3>
 
-I'm [Your Name], a [Your Profession or Role] from [Your Location]. Welcome to my GitHub profile!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamanilantony&label=Profile%20views&color=0e75b6&style=flat" alt="iamanilantony" /> </p>
 
-## 🔭 What I'm currently working on
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamanilantony" alt="iamanilantony" /></a> </p>
 
-Provide a brief description of the current project(s) you're working on.
+- 🔭 I’m currently working on **Cinefest (Passion Project)**
 
-## 🌱 What I'm currently learning
+- 🌱 I’m currently learning **Astro**
 
-List the topics or skills you're currently learning or interested in.
+- 👨‍💻 All of my projects are available at [anilantony.xyz](anilantony.xyz)
 
-## 👯‍♀️ Collaborations
+- 💬 Ask me about **Javascript**
 
-Mention any open-source projects you're contributing to or any collaborations you're currently involved in.
+- 📫 How to reach me **anilantony3134@gmail.com**
 
-## 💬 Ask me about
+- ⚡ Fun fact **"I'm a ninja at refactoring, except for that one time when I accidentally deleted the entire codebase"**
 
-Highlight the topics you're knowledgeable about and open to discussing with others.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/iamanilantony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamanilantony" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/iamanilantony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/iamanilantony" height="30" width="40" /></a>
+</p>
 
-## 📫 How to reach me
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamanilantony&show_icons=true&locale=en&layout=compact" alt="iamanilantony" /></p>
 
-List the ways people can reach out to you, such as through social media or email.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamanilantony&show_icons=true&locale=en" alt="iamanilantony" /></p>
 
-## ⚡ Fun fact
-
-Add a fun fact or a personal detail that will help others get to know you better.
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamanilantony&" alt="iamanilantony" /></p>
