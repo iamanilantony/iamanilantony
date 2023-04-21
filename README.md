@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/iamanilantony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/iamanilantony" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamanilantony&show_icons=true&locale=en&layout=compact" alt="iamanilantony" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamanilantony&show_icons=true&locale=en&layout=compact" alt="iamanilantony" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamanilantony&show_icons=true&locale=en" alt="iamanilantony" /></p>
 
