@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamanilantony&label=Profile%20views&color=0e75b6&style=flat" alt="iamanilantony" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamanilantony" alt="iamanilantony" /></a> </p>
-
 ![Alt Text](https://github.com/iamanilantony/iamanilantony/blob/master/Beige%20Grey%20Vlogger%20YouTube%20Banner%20(1).jpg)
 
 - 🔭 I’m currently working on **Cinefest (Passion Project)**
@@ -30,3 +28,6 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamanilantony&show_icons=true&locale=en" alt="iamanilantony" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamanilantony&" alt="iamanilantony" /></p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamanilantony" alt="iamanilantony" /></a> </p>
