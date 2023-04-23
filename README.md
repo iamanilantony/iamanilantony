@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Advanced FrontEnds**
 
-- 👨‍💻 All of my projects are available at [anilantony.xyz](anilantony.xyz)
+- 👨‍💻 All of my projects are available at [https://anilantony.xyz](anilantony.xyz)
 
 - 💬 Ask me about **Javascript**
 
