@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anil Antony</h1>
+
 ![Beige Grey Vlogger YouTube Banner](https://user-images.githubusercontent.com/92921196/204690346-3b5907d4-46c6-42bb-ab5f-8fc197670db6.png)
+
 <h3 align="justify">"Full stack developer with a passion for procrastinating and then staying up all night to finish the code"</h3>
 
 <!-- ![Alt Text](https://github.com/iamanilantony/iamanilantony/blob/master/Beige%20Grey%20Vlogger%20YouTube%20Banner%20(1).jpg) -->
