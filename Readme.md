@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Cinefest (Passion Project)**
 
-- 🌱 I’m currently learning **Everything**
+- 🌱 I’m currently learning **Everything Web**
 
 - 👨‍💻 All of my projects are available at [anilantony.com](https://anilantony.com)
 
