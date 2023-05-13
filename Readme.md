@@ -33,7 +33,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamanilantony" alt="iamanilantony" /></a> </p>
 
-<a href="https://app.daily.dev/Anilantony3134"><img src="https://api.daily.dev/devcards/0fb81d69ced14a04a7b88ed0d9170c60.png?r=qsz" width="400" alt="Anil Antony's Dev Card"/></a>
+<a href="https://app.daily.dev/Anilantony3134"><img src="https://api.daily.dev/devcards/0fb81d69ced14a04a7b88ed0d9170c60.png?r=qsz" width="200" alt="Anil Antony's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamanilantony&label=Profile%20views&color=0e75b6&style=flat" alt="iamanilantony" /> </p>
 
