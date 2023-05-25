@@ -30,8 +30,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamanilantony&" alt="iamanilantony" /></p>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamanilantony" alt="iamanilantony" /></a> </p>
+<!-- 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamanilantony" alt="iamanilantony" /></a> </p> -->
 
 <a href="https://app.daily.dev/Anilantony3134"><img src="https://api.daily.dev/devcards/0fb81d69ced14a04a7b88ed0d9170c60.png?r=qsz" width="300" alt="Anil Antony's Dev Card"/></a>
 
