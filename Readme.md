@@ -35,11 +35,16 @@
 
 <a href="https://app.daily.dev/Anilantony3134"><img src="https://api.daily.dev/devcards/0fb81d69ced14a04a7b88ed0d9170c60.png?r=qsz" width="300" alt="Anil Antony's Dev Card"/></a>
 
+
+<!-- 
+
 <div id="countdown">
   Loading countdown...
 </div>
 
 <script src="countdown.js"></script>
+-->
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamanilantony&label=Profile%20views&color=0e75b6&style=flat" alt="iamanilantony" /> </p>
