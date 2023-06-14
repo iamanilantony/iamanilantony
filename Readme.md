@@ -45,6 +45,9 @@
 <script src="countdown.js"></script>
 -->
 
+![Countdown](https://img.shields.io/static/v1?label=Countdown&message=17%20days%20left&color=brightgreen)
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamanilantony&label=Profile%20views&color=0e75b6&style=flat" alt="iamanilantony" /> </p>
