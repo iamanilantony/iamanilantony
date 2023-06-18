@@ -45,7 +45,9 @@
 <script src="countdown.js"></script>
 -->
 
+<!--
 ![Countdown](https://img.shields.io/static/v1?label=Countdown&message=16%20days%20left&color=brightgreen)
+-->
 
 
 
