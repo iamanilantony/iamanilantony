@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [anilantony.com](https://anilantony.com)
 
-- 💬 Ask me about **Javascript/TypeScript**
+- 💬 Ask me about **TypeScript**
 
 - 📫 How to reach me **anilantony3134@gmail.com**
 
