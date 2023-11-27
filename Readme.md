@@ -6,7 +6,7 @@
 
 <!-- ![Alt Text](https://github.com/iamanilantony/iamanilantony/blob/master/Beige%20Grey%20Vlogger%20YouTube%20Banner%20(1).jpg) -->
 
-<!-- - 🔭 I’m currently working on **Cinefest (Passion Project)** -->
+ - 🔭 I’m a speaker community partner part-time video editor also do lil bit of coding on the side  
 
 - 🌱 I’m currently learning **Everything humanly possible** 
 
