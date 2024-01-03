@@ -18,11 +18,11 @@
 
 - ⚡ Fun fact **"I'm a ninja at refactoring, except for that one time when I accidentally deleted the entire codebase"**
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="https://twitter.com/iamanilantony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamanilantony" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/iamanilantony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/iamanilantony" height="30" width="40" /></a>
-</p> 
+</p> --> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamanilantony&show_icons=true&locale=en&layout=compact" alt="iamanilantony" /></p>
 
