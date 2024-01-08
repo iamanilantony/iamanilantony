@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Everything humanly possible** 
 
-- 👨‍💻 All of my projects are available at [anilantony.com](https://anilantony.com)
+- 👨‍💻 All of my works are available at [anilantony.com](https://anilantony.com)
 
 - 💬 Ask me about anything **Full Stack**
 
